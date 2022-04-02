@@ -1,0 +1,11 @@
+import string__ops
+x=string__ops.find_nth_occurrence('asdasdasd','as',2)
+print(x)
+x=string__ops.solve('code*s','codewars')
+print(x)
+x=string__ops.is_palindrome('here')
+print(x)
+x=string__ops.is_palindrome1('Ismsi')
+print(x)
+x=string__ops.f('ababab')
+print(x)
